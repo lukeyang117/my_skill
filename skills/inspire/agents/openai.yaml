@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inspire"
+  short_description: "Gate implementation behind explicit /inspire discussion"
+  default_prompt: "Use $inspire to analyze this requirement, bug, image, or reference mapping before implementation."
